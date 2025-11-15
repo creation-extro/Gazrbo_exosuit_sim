@@ -1,0 +1,36 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/opt/ros/jazzy/opt/gz_sim_vendor/include/**",
+        "/opt/ros/jazzy/opt/gz_sensors_vendor/include/**",
+        "/opt/ros/jazzy/opt/sdformat_vendor/include/**",
+        "/opt/ros/jazzy/opt/gz_physics_vendor/include/**",
+        "/opt/ros/jazzy/opt/gz_gui_vendor/include/**",
+        "/opt/ros/jazzy/opt/gz_transport_vendor/include/**",
+        "/opt/ros/jazzy/opt/gz_rendering_vendor/include/**",
+        "/opt/ros/jazzy/opt/gz_plugin_vendor/include/**",
+        "/opt/ros/jazzy/opt/gz_fuel_tools_vendor/include/**",
+        "/opt/ros/jazzy/opt/gz_msgs_vendor/include/**",
+        "/opt/ros/jazzy/opt/gz_common_vendor/include/**",
+        "/opt/ros/jazzy/opt/gz_math_vendor/include/**",
+        "/opt/ros/jazzy/opt/gz_utils_vendor/include/**",
+        "/opt/ros/jazzy/opt/gz_ogre_next_vendor/include/**",
+        "/opt/ros/jazzy/opt/gz_cmake_vendor/include/**",
+        "/opt/ros/jazzy/opt/gz_dartsim_vendor/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
